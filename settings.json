@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "XaslocMANAGERVIP",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "xasloc.aternos.me",
+    "port": 16416,
     "version": "",
     "try-creative": false
   },
